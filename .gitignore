@@ -1,0 +1,59 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.DS_Store
+.idea/JavaEdge.iml
+.idea/compiler.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+Python/.DS_Store
+大数据/.DS_Store
+操作系统/.DS_Store
+数据存储/.DS_Store
+面试题系列/.DS_Store
+
+.metals/metals.h2.db
+.metals/metals.log
+.vscode/settings.json
+
+UML/demo.dio
+Spring/feign.md
+*.dio
+TODO/uml/MySQL会丢数据吗？.md
+TODO/【阿里最新数据库面试题】MySQL主从一致性.md
+TODO/【阿里数据库面试题解】MySQL高可用原理.md
+TODO/MySQL执行更新语句时做了什么?.md
+TODO/为何阿里不推荐MySQL使用join？.md
+TODO/【阿里MySQL面试题】内部临时表.md
+TODO/MySQL数据查询太多会OOM吗？.md
+TODO/有了InnoDB，Memory存储引擎还有意义吗？.md
+TODO/MySQL执行insert会如何加锁?.md
+TODO/MySQL的自增id竟然用到头了怎么办？.md
+TODO/MySQL全局锁和表锁.md
+TODO/MySQL事务是怎么实现隔离的？.md
